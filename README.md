@@ -1,86 +1,196 @@
-# \# OverTheWire Natas Writeups
+<h1>OverTheWire Natas Writeups</h1>
 
-# 
+<p>
+My personal writeups for the
+<a href="https://overthewire.org/wargames/natas/">OverTheWire Natas</a>
+wargame.
+</p>
 
-# My personal writeups for the \[OverTheWire Natas](https://overthewire.org/wargames/natas/) wargame.
+<h2>Levels</h2>
 
-# 
-
-# \## Levels
-
-# 
-
-# | Level | Description | Status |
-
-# |-------|-------------|--------|
-
-# | \[Natas 0](natas/natas0.md) | Basic authentication + page source | Completed |
-
-# | Natas 1 | - | Not started |
-
-# | Natas 2 | - | Not started |
-
-# | Natas 3 | - | Not started |
-
-# | Natas 4 | - | Not started |
-
-# | Natas 5 | - | Not started |
-
-# | Natas 6 | - | Not started |
-
-# | Natas 7 | - | Not started |
-
-# | Natas 8 | - | Not started |
-
-# | Natas 9 | - | Not started |
-
-# | Natas 10 | - | Not started |
-
-# | Natas 11 | - | Not started |
-
-# | Natas 12 | - | Not started |
-
-# | Natas 13 | - | Not started |
-
-# | Natas 14 | - | Not started |
-
-# | Natas 15 | - | Not started |
-
-# | Natas 16 | - | Not started |
-
-# | Natas 17 | - | Not started |
-
-# | Natas 18 | - | Not started |
-
-# | Natas 19 | - | Not started |
-
-# | Natas 20 | - | Not started |
-
-# | Natas 21 | - | Not started |
-
-# | Natas 22 | - | Not started |
-
-# | Natas 23 | - | Not started |
-
-# | Natas 24 | - | Not started |
-
-# | Natas 25 | - | Not started |
-
-# | Natas 26 | - | Not started |
-
-# | Natas 27 | - | Not started |
-
-# | Natas 28 | - | Not started |
-
-# | Natas 29 | - | Not started |
-
-# | Natas 30 | - | Not started |
-
-# | Natas 31 | - | Not started |
-
-# | Natas 32 | - | Not started |
-
-# | Natas 33 | - | Not started |
-
-# | Natas 34 | - | Not started |
-
+<table>
+  <thead>
+    <tr>
+      <th>Level</th>
+      <th>Description</th>
+      <th>Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="natas/natas0.md">Natas 0</a></td>
+      <td>Basic authentication + page source</td>
+      <td>Completed</td>
+    </tr>
+    <tr>
+      <td>Natas 1</td>
+      <td>-</td>
+      <td>Not started</td>
+    </tr>
+    <tr>
+      <td>Natas 2</td>
+      <td>-</td>
+      <td>Not started</td>
+    </tr>
+    <tr>
+      <td>Natas 3</td>
+      <td>-</td>
+      <td>Not started</td>
+    </tr>
+    <tr>
+      <td>Natas 4</td>
+      <td>-</td>
+      <td>Not started</td>
+    </tr>
+    <tr>
+      <td>Natas 5</td>
+      <td>-</td>
+      <td>Not started</td>
+    </tr>
+    <tr>
+      <td>Natas 6</td>
+      <td>-</td>
+      <td>Not started</td>
+    </tr>
+    <tr>
+      <td>Natas 7</td>
+      <td>-</td>
+      <td>Not started</td>
+    </tr>
+    <tr>
+      <td>Natas 8</td>
+      <td>-</td>
+      <td>Not started</td>
+    </tr>
+    <tr>
+      <td>Natas 9</td>
+      <td>-</td>
+      <td>Not started</td>
+    </tr>
+    <tr>
+      <td>Natas 10</td>
+      <td>-</td>
+      <td>Not started</td>
+    </tr>
+    <tr>
+      <td>Natas 11</td>
+      <td>-</td>
+      <td>Not started</td>
+    </tr>
+    <tr>
+      <td>Natas 12</td>
+      <td>-</td>
+      <td>Not started</td>
+    </tr>
+    <tr>
+      <td>Natas 13</td>
+      <td>-</td>
+      <td>Not started</td>
+    </tr>
+    <tr>
+      <td>Natas 14</td>
+      <td>-</td>
+      <td>Not started</td>
+    </tr>
+    <tr>
+      <td>Natas 15</td>
+      <td>-</td>
+      <td>Not started</td>
+    </tr>
+    <tr>
+      <td>Natas 16</td>
+      <td>-</td>
+      <td>Not started</td>
+    </tr>
+    <tr>
+      <td>Natas 17</td>
+      <td>-</td>
+      <td>Not started</td>
+    </tr>
+    <tr>
+      <td>Natas 18</td>
+      <td>-</td>
+      <td>Not started</td>
+    </tr>
+    <tr>
+      <td>Natas 19</td>
+      <td>-</td>
+      <td>Not started</td>
+    </tr>
+    <tr>
+      <td>Natas 20</td>
+      <td>-</td>
+      <td>Not started</td>
+    </tr>
+    <tr>
+      <td>Natas 21</td>
+      <td>-</td>
+      <td>Not started</td>
+    </tr>
+    <tr>
+      <td>Natas 22</td>
+      <td>-</td>
+      <td>Not started</td>
+    </tr>
+    <tr>
+      <td>Natas 23</td>
+      <td>-</td>
+      <td>Not started</td>
+    </tr>
+    <tr>
+      <td>Natas 24</td>
+      <td>-</td>
+      <td>Not started</td>
+    </tr>
+    <tr>
+      <td>Natas 25</td>
+      <td>-</td>
+      <td>Not started</td>
+    </tr>
+    <tr>
+      <td>Natas 26</td>
+      <td>-</td>
+      <td>Not started</td>
+    </tr>
+    <tr>
+      <td>Natas 27</td>
+      <td>-</td>
+      <td>Not started</td>
+    </tr>
+    <tr>
+      <td>Natas 28</td>
+      <td>-</td>
+      <td>Not started</td>
+    </tr>
+    <tr>
+      <td>Natas 29</td>
+      <td>-</td>
+      <td>Not started</td>
+    </tr>
+    <tr>
+      <td>Natas 30</td>
+      <td>-</td>
+      <td>Not started</td>
+    </tr>
+    <tr>
+      <td>Natas 31</td>
+      <td>-</td>
+      <td>Not started</td>
+    </tr>
+    <tr>
+      <td>Natas 32</td>
+      <td>-</td>
+      <td>Not started</td>
+    </tr>
+    <tr>
+      <td>Natas 33</td>
+      <td>-</td>
+      <td>Not started</td>
+    </tr>
+    <tr>
+      <td>Natas 34</td>
+      <td>-</td>
+      <td>Not started</td>
+    </tr>
+  </tbody>
+</table>
