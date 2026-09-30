@@ -18,7 +18,7 @@ wargame.
   </thead>
   <tbody>
     <tr>
-      <td><a href="natas/natas0.md">Natas 0</a></td>
+      <td><a href="natas/natas(0).md">Natas 0</a></td>
       <td>Basic authentication + page source</td>
       <td>Completed</td>
     </tr>
