@@ -1,18 +1,21 @@
-# \## Natas 0
+<h1>Natas 0</h1>
 
-# 
+<h2>Level Info</h2>
 
-# \## Level Info
+<ul>
+  <li><strong>Username:</strong> <code>natas0</code></li>
+  <li><strong>Password:</strong> <code>natas0</code></li>
+  <li><strong>URL:</strong> <code>http://natas0.natas.labs.overthewire.org</code></li>
+</ul>
 
-# Username: natas0
+<h2>Solution</h2>
 
-# Password: natas0
+<p>
+Simply enter the provided username and password on the login page.
+</p>
 
-# URL:      http://natas0.natas.labs.overthewire.org
+<p>
+<img src="../images/natas(0)Screenshot%201.png" alt="Natas 0">
+</p>
 
-
-simple as that 
-just put the username and pass inside the login page in the url
-!\[Natas 0](../images/natas(0)Screenshot 1.png)
-===
-
+<hr>
