@@ -2,7 +2,7 @@
 
 <h2>Level Info</h2>
 
-<ul> <li><strong>Username:</strong> <code>natas1</code></li> <li><strong>Password:</strong> <code>your_password_here</code></li> <li><strong>URL:</strong> <code>http://natas1.natas.labs.overthewire.org</code></li> </ul>
+<ul> <li><strong>Username:</strong> <code>natas2</code></li> <li><strong>Password:</strong> <code>your_password_here</code></li> <li><strong>URL:</strong> <code>http://natas1.natas.labs.overthewire.org</code></li> </ul>
 
 <h2>Solution</h2>
 
