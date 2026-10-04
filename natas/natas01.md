@@ -12,7 +12,7 @@
 
 <p>
 <p>
-<img src="../images/natas(2)screenshot1 - Copy.png" alt="Natas 1">
+<img src="../images/natas(1)screenshot1.png" alt="Natas 1">
 </p>
 
 <hr>
