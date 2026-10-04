@@ -15,7 +15,7 @@ Simply enter the provided username and password on the login page.
 </p>
 
 <p>
-<img src="../images/natas(0)Screenshot%201.png" alt="Natas 0">
+<img src="../images/natas(1)screenshot1.png" alt="Natas 1">
 </p>
 
 <hr>
