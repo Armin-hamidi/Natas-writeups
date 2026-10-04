@@ -1,36 +1,18 @@
-# \# Natas 1
+<h1>Natas 1</h1>
 
-# 
+<h2>Level Info</h2>
 
-# \## Level Info
+<ul> <li><strong>Username:</strong> <code>natas1</code></li> <li><strong>Password:</strong> <code>your_password_here</code></li> <li><strong>URL:</strong> <code>http://natas1.natas.labs.overthewire.org</code></li> </ul>
 
-# 
+<h2>Solution</h2>
 
-# \* \*\*Username:\*\* `natas1`
+<p> Right-clicking is disabled on this page, but you can still inspect the HTML source using Developer Tools. </p>
 
-# \* \*\*Password:\*\* `your\_password\_here`
+<p> Press <code>Ctrl + Shift + I</code> to open Developer Tools, then go to the <strong>Elements</strong> tab to find the password for the next level. </p>
 
-# \* \*\*URL:\*\* `http://natas1.natas.labs.overthewire.org`
+<p>
+<p>
+<img src="../images/natas(1)Screenshot1.png" alt="Natas 1">
+</p>
 
-# 
-
-# \## Solution
-
-# 
-
-# Right-clicking is disabled on this page, but you can still inspect the HTML using your browser's Developer Tools.
-
-# 
-
-# Open the page source using `Ctrl + U` to find the password for the next level.
-
-# 
-
-# !\[Natas 1](../images/natas1.png)
-
-# 
-
-# ===
-
-# 
-
+<hr>
