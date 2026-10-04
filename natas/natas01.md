@@ -6,8 +6,6 @@
 
 <h2>Solution</h2>
 
-<p> Right-clicking is disabled on this page, but you can still inspect the HTML source using Developer Tools. </p>
-
 <p> Press <code>Ctrl + Shift + I</code> to open Developer Tools, then go to the <strong>Elements</strong> tab to find the password for the next level. </p>
 
 <p>
