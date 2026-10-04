@@ -1,4 +1,4 @@
-<h1>Natas 1</h1>
+<h1>Natas 2</h1>
 
 <h2>Level Info</h2>
 
