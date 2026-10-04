@@ -23,12 +23,12 @@ wargame.
       <td>Completed</td>
     </tr>
     <tr>
-      <td><a href="natas/natas(1).md">Natas 1</a></td>
+      <td><a href="natas/natas01.md">Natas 1</a></td>
       <td>Inspecting page source</td>
       <td>Completed</td>
     </tr>
     <tr>
-      <td><a href="natas/natas(2).md">Natas 2</a></td>
+      <td><a href="natas/natas02.md">Natas 2</a></td>
       <td>Inspecting page source with right-click disabled</td>
       <td>Completed</td>
     </tr>
