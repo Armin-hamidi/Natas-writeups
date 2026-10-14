@@ -20,7 +20,7 @@ wargame.
     <tr>
       <td><a href="natas/natas(0).md">Natas 0</a></td>
       <td>Basic authentication + page source</td>
-      <td>Completed</td>
+      <td>Completed </td>
     </tr>
     <tr>
       <td><a href="natas/natas01.md">Natas 1</a></td>
