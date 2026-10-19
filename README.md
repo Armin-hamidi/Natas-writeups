@@ -1,4 +1,4 @@
-<h1>OverTheWire Natas Writeups</h1>
+<h1> OverTheWire Natas Writeups </h1>
 
 <p>
 My personal writeups for the
