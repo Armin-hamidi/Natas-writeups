@@ -1,7 +1,7 @@
 <h1>  OverTheWire Natas Writeups </h1>
 
 <p>
-My personal writeups for  the
+My personal writeups for the
 <a href="https://overthewire.org/wargames/natas/">OverTheWire Natas</a>
 wargame.
 </p>
