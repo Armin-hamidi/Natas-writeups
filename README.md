@@ -2,7 +2,7 @@
 
 <p>
 My personal writeups for the
-<a href="https://overthewire.org/wargames/natas/">OverTheWire  Natas</a>
+<a href="https://overthewire.org/wargames/natas/">OverTheWire   Natas</a>
 wargame.
 </p>
 
